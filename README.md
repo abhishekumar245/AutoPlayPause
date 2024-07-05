@@ -1,9 +1,9 @@
-# YTAutoPlayPause
+# AutoPlayPause
 A small code to play/pause YouTube videos on switching tabs.
 
 # How To?
 1. Open Chrome.
-2. Then open YouTube.
+2. Then open YouTube or other video streaming platform.
 3. Open `Developer Tools` by shortcut `CTRL + SHIFT + I`.
 4. Open Console Tab.
 5. Clear by shortcut `CTRL + L`.
